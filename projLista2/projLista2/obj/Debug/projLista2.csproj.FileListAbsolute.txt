@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\projLista2\projLista2\bin\Debug\projLista2.exe.config
+C:\Users\aluno\source\repos\projLista2\projLista2\bin\Debug\projLista2.exe
+C:\Users\aluno\source\repos\projLista2\projLista2\bin\Debug\projLista2.pdb
+C:\Users\aluno\source\repos\projLista2\projLista2\obj\Debug\projLista2.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projLista2\projLista2\obj\Debug\projLista2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\projLista2\projLista2\obj\Debug\projLista2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projLista2\projLista2\obj\Debug\projLista2.exe
+C:\Users\aluno\source\repos\projLista2\projLista2\obj\Debug\projLista2.pdb

@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\projListaBind\projListaBind\obj\Debug\projListaBind.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projListaBind\projListaBind\obj\Debug\projListaBind.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\projListaBind\projListaBind\obj\Debug\projListaBind.Form1.resources
+C:\Users\aluno\source\repos\projListaBind\projListaBind\obj\Debug\projListaBind.Properties.Resources.resources
+C:\Users\aluno\source\repos\projListaBind\projListaBind\obj\Debug\projListaBind.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\projListaBind\projListaBind\obj\Debug\projListaBind.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projListaBind\projListaBind\bin\Debug\projListaBind.exe.config
+C:\Users\aluno\source\repos\projListaBind\projListaBind\bin\Debug\projListaBind.exe
+C:\Users\aluno\source\repos\projListaBind\projListaBind\bin\Debug\projListaBind.pdb
+C:\Users\aluno\source\repos\projListaBind\projListaBind\obj\Debug\projListaBind.exe
+C:\Users\aluno\source\repos\projListaBind\projListaBind\obj\Debug\projListaBind.pdb
